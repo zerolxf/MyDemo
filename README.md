@@ -5,7 +5,7 @@ MyDemo
 
 其中有涉及单元测试junit, jackson, ReflectionTestUtils等使用
 
-[我的博客][1]会陆续灯下
+[我的博客][1]会陆续更新
 
 
 [1]: http://zeroxf.com/
