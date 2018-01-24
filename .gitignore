@@ -54,3 +54,4 @@ target/classes/META-INF/maven/MyTest/MyTest/pom.xml
 /bin/
 /target/
 /.settings/
+/.settings/*
